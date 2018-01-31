@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="src" path="whaerfub"/>
+	<classpathentry kind="lib" path="resource/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="resource/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="resource/httpclient5-5.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="resource/httpclient5-cache-5.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="resource/httpclient5-fluent-5.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="resource/httpclient5-testing-5.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="resource/httpclient5-win-5.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="resource/httpcore5-5.0-beta1.jar" sourcepath="E:/开发/类库/java/httpcomponents-client-5.0-alpha3-src.zip"/>
+	<classpathentry kind="lib" path="resource/httpcore5-h2-5.0-beta1.jar"/>
+	<classpathentry kind="lib" path="resource/httpcore5-testing-5.0-beta1.jar"/>
+	<classpathentry kind="lib" path="resource/jna-4.2.1.jar"/>
+	<classpathentry kind="lib" path="resource/jna-platform-4.2.1.jar"/>
+	<classpathentry kind="lib" path="resource/log4j-api-2.9.1.jar" sourcepath="D:/chromeDownLoad/apache-log4j-2.10.0-src.zip"/>
+	<classpathentry kind="lib" path="resource/log4j-core-2.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
