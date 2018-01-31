@@ -26,6 +26,11 @@ public class InitProject {
 		return project;
 	}
 
+	/**
+	 * 测试分支_2 测试用的 ...
+	 * 
+	 * @param project
+	 */
 	public void setProject(Project project) {
 		this.project = project;
 	}
