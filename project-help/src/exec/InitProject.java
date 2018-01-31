@@ -14,6 +14,11 @@ public class InitProject {
 		project.setSrc(src);
 	}
 
+	/**
+	 * 这是主要的分支 , 在这里用的是什么? 无用的东西 , 分支在这里使用
+	 * 
+	 * @return
+	 */
 	public Project getProject() {
 		return project;
 	}
